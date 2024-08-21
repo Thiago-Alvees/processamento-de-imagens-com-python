@@ -11,10 +11,12 @@ Transformações de Imagens: Realiza transformações como redimensionamento e r
 
 # Estrutura do Projeto
 image_processing/
-__init__.py: Inicializa o pacote e importa os módulos.
-io.py: Contém funções para carregar e salvar imagens.
-filters.py: Contém funções para aplicar filtros às imagens.
-transformations.py: Contém funções para realizar transformações nas imagens.
+ 
+ __init__.py: Inicializa o pacote e importa os módulos.
+ io.py: Contém funções para carregar e salvar imagens.
+ filters.py: Contém funções para aplicar filtros às imagens.
+ transformations.py: Contém funções para realizar transformações nas imagens.
+
 setup.py: Arquivo de configuração para instalação do pacote.
 test_image_processing.py: Script de teste para verificar as funcionalidades do pacote.
 
